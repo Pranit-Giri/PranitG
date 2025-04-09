@@ -41,7 +41,7 @@ Java-based puzzle solver using backtracking and recursion
 - 📍 Latur, Maharashtra, India  
 - 📧 Email: [pranitgiri11@gmail.com](mailto:pranitgiri11@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranit-giri-726760239)  
-- 💼 [Resume (LaTeX)](https://github.com/yourgithubusername/resume)
+- 💼 [Resume](https://github.com/yourgithubusername/resume)
 
 ---
 
